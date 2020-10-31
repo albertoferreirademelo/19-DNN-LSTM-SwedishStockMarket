@@ -12,5 +12,15 @@ I started to understand the strenght to use machine learning for data analysis a
 
 I also learned how to program a long short-term memory and ARIMA.
 
+A few subjects that I had to go through during this project:
+- Artificial Neural Networks
+- Neurons
+- Layers
+- Activation functions
+- Accuracy and Loss
+- Optimizers
+- Validation
+- Training
+- Etc.
 ## What could be better
 The result probably was overfitting since the analysis with the test data had over 90% of accuracy. Sometime I will come back to this project and check if I can add other tests to check accuracy one more time.
