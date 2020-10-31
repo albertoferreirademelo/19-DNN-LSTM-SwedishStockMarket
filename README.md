@@ -13,4 +13,4 @@ I started to understand the strenght to use machine learning for data analysis a
 I also learned how to program a long short-term memory and ARIMA.
 
 ## What could be better
-The data probably overfitted since the result had over 90% of accuracy which in my opinion is way too high.
+The result probably was overfitting since the analysis with the test data had over 90% of accuracy. Sometime I will come back to this project and check if I can add other tests to check accuracy one more time.
